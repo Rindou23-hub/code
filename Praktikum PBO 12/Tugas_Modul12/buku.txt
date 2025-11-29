@@ -1,0 +1,4 @@
+Judul: buku1, Pengarang: saya sendiri, Tahun Terbit: 2022
+Judul: Laut Bercerita, Pengarang: Pramoedya Ananta Toer, Tahun Terbit: 2022
+Judul: Hankazu, Pengarang: Karezu Hanayako, Tahun Terbit: 2021
+Judul: Detective Conan Manga, Pengarang: Aoyama Gosho, Tahun Terbit: 1994
